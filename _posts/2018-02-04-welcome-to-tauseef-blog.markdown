@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to my blog!"
-date:   2020-07-30 21:28:15 +0700
+date:   2020-06-30 21:28:15 +0700
 ---
 First of all, Thank you for stopping by.
 
