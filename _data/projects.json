@@ -1,51 +1,28 @@
 [
 	{
-		"slug": "etrucking-soft",
-		"name": "Etrucking Software",
-		"image": "etruckingsoft.png",
-		"url": "http://etruckingsoft.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS", "Nodejs", "HTML", "API"]
+		"slug": "Socket Programming and Multithreading",
+		"name": "Socket Programming and Multithreading",
+		"image": "socket2.jpg",
+		"url": "https://github.com/yashica-patodia/krssg_task/tree/master",
+		"date": "Jan 2020",
+		"tags": ["Socket", "Python", "Multithreading", "TCP"]
 	},
 	{
-		"name": "Easy Links",
-		"image": "easy-links.jpg",
-		"date": "May 2017",
-		"description": "This is internal chrome extension, that was developed for my company to provide quick navigation with internal tools.",
-		"tags": ["Extension","Javascript"]
+		"name": "Finite State Machines",
+		"image": "lift_fsm.png",
+		 "url" : "https://github.com/yashica-patodia/FSM/tree/master",
+		"date": "Feb 2020",
+		"description": "This is an optimal two lift -one button system.",
+		"tags": ["FSM","OOP"]
 	},
 	{
-		"name": "Live Band Club",
-		"image": "livebandclub.png",
-		"url": "http://livebandclub.com",
-		"date": "June 2016",
-		"tags": ["HTML","Javascript","PHP"]
-	},
-	{
-		"name": "Pavement Preservation Treatment Database",
-		"image": "pp_logo.png",
-		"date": "Oct 2015",
-		"url": "http://ceresearch.ecst.csuchico.edu/cp2c/alaskappdb/",
-		"tags": ["PHP","HTML"]
-	},
-	{
-		"name": "Street Saver Certification Program",
-		"image": "streetsaver.png",
-		"date": "Oct 2015",
-		"url": "http://ttc.ecst.csuchico.edu/mtcrcp/login/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},
-	{
-		"name": "Tire Derived Aggregate",
-		"image": "tda.png",
-		"date": "Oct 2016",
-		"url": "http://ttc.ecst.csuchico.edu/TDAtc/index.php",
-		"tags": ["PHP","HTML","CMS"]
-	},{
-		"name": "JM Watts Chico",
-		"image": "jmwattschico.png",
-		"url": "http://jmwattschico.com/",
-		"date": "May 2017",
-		"tags": ["HTML","CSS","Javascript"]
+		"name": "RRT*_connect Path Planning",
+		"image": "rrt.png",
+		"url": "https://github.com/yashica-patodia/RRT_star/tree/master",
+		"date": "March 2020",
+		"tags": ["RRT","Path Planning","ROS"]
 	}
+	
+	
+	
 ]
