@@ -21,7 +21,17 @@
 		"url": "https://github.com/yashica-patodia/RRT_star/tree/master",
 		"date": "March 2020",
 		"tags": ["RRT","Path Planning","ROS"]
-	}
+	},
+	{
+		"name": "Algorithms and Data Structures",
+		"image": "cp.jpg",
+		 "url" : "https://github.com/yashica-patodia/IMPORTANT-SNIPPETS",
+		"date": "July 2020",
+		"description": "Important snippets helpful while doing cp.",
+		"tags": ["Algo","DS","CP","Snippets"]
+	}	
+		
+	
 	
 	
 	
