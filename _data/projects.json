@@ -28,8 +28,17 @@
 		 "url" : "https://github.com/yashica-patodia/IMPORTANT-SNIPPETS",
 		"date": "July 2020",
 		"description": "Important snippets helpful while doing cp.",
-		"tags": ["Algo","DS","CP","Snippets"]
-	}	
+		"tags": ["Algo","DS","CP","Snippets","C++"]
+	},
+	{
+		"name": "Auto Complete feature using Tries",
+		"image": "autocomp.png",
+		 "url" : "https://github.com/yashica-patodia/Implement_autocomplete",
+		"date": "August 2020",
+		"description": "Auto Complete feature using Advanced Data Structures.",
+		"tags": ["Design","Advanced DS","Tries","Auto Complete","C++"]
+	}
+		
 		
 	
 	
