@@ -15,7 +15,7 @@ hr {
   border-bottom: 1px solid #fff;
 }
 span.time, span.categories {
-  color: #ADADAD;
+  color: #2d275e;
   margin-bottom: 5px;
   font-size: 11px;
 }
@@ -154,7 +154,7 @@ div.col-sm-3 img.profile-avatar {
 }
 .social li a {
   font-size: 16px;
-  color: #bd5d38;
+  color: #2d275e;
 }
 .social li a:hover {
   color: #6D6D6D;
