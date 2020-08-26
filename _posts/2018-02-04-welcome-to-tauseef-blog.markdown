@@ -9,8 +9,6 @@ First of all, Thank you for stopping by.
 Hi, I am `Yashica Patodia`, a *sophomore* at *IIT Kharagpur* enrolled for a B-Tech course in the field of Computer Science and Engineering from Calcutta, India .I am an open source enthusiast and love doing competetive programming as well.
  
 
-I was born in Calcutta, India.
-
 I aspire to learn, grow and share  knowledge. I started  programming from the year 2010, since then I have come far and learnt a lot. I am constantly looking to work on exciting projects.
 
 #### I believe in the statement -
