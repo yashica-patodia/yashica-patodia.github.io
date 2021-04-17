@@ -5,7 +5,7 @@ date:   2021-04-18 21:28:15 +0700
 tag: [LOVE,relationship,TRUST,Patience]
 ---
 
-# Self Patience and Heartbreaks
+
 
 >*"Dont give your mind the power to control your heart."*
 
