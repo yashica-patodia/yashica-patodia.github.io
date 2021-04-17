@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Self Patience and Heartbreaks"
 date:   2021-04-18 21:28:15 +0700
 tag: [LOVE,relationship,TRUST,Patience]
 ---
