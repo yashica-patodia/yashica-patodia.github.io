@@ -54,7 +54,66 @@
 		"date": "April 2021",
 		"description": "Web based Application.",
 		"tags": ["Python","Flask","Jinja","Html","CSS","js"]
-	}
+	},
+	{
+		"name": "Multi-dimensional Vector Space Implementation",
+		"image": "vector.png",
+		 "url" : "https://github.com/yashica-patodia/VectorClass",
+		"date": "Feb 2021",
+		"description": "Python OOP's.",
+		"tags": ["Python","OOP"]
+	},
+			
+	{
+		"name": "Object Detection",
+		"image": "ob.png",
+		 "url" : "https://github.com/yashica-patodia/DataScience",
+		"date": "Feb 2021",
+		"description": "Data Science Python Project.",
+		"tags": ["Python","OOP","OpenCV","Deep Learning"]
+	},
+		
+	{
+		"name": "Social Network - WhatsApp ",
+		"image": "sc.png",
+		 "url" : "https://github.com/yashica-patodia/SocialNetworkGUI",
+		"date": "Jan 2021",
+		"description": "Python GUI",
+		"tags": ["Python","OOP","GUI","tkinter"]
+	},
+	{
+		"name": "Library Management System ",
+		"image": "lms.png",
+		 "url" : "https://github.com/yashica-patodia/LMS",
+		"date": "Jan 2021",
+		"description": "C++ OOPS",
+		"tags": ["c++","OOP"]
+	},
+	{
+		"name": "Railway Reservation and Booking System",
+		"image": "rail.png",
+		 "url" : "https://github.com/yashica-patodia/RailwayReservationBookingSystem",
+		"date": "March 2021",
+		"description": "C++ Development",
+		"tags": ["c++","OOP","Polymorphism","Inheritance"]
+	},
+	{
+		"name": "Fraction User-Defined Data Type",
+		"image": "fraction.png",
+		 "url" : "https://github.com/yashica-patodia/FractionUDT",
+		"date": "March 2021",
+		"description": "C++ Development",
+		"tags": ["c++","OOP","Polymorphism","Inheritance"]
+	},
+	{
+		"name": "Finite Automata",
+		"image": "dfa.png",
+		 "url" : "https://github.com/yashica-patodia/FiniteAutomata",
+		"date": "March 2021",
+		"description": "C++ Development",
+		"tags": ["c++","OOP","Polymorphism","Inheritance"]
+	},
+		
 	
 		
 		
